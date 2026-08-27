@@ -5,3 +5,4 @@ langgraph
 python-dotenv
 langchain-community
 pypdf
+sentence-transformers
